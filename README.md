@@ -5,6 +5,11 @@ Repositorio de tareas semanales de la materia Teoría de Circuitos II - UTN FRBA
 
 ### Tarea semanal #1:
 - Estado: 
+- Enlace a nbviewer:
+
+### Tarea semanal #2:
+- Estado: 
+- Enlace a nbviewer:
 
 ## Autores
 
