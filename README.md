@@ -10,7 +10,7 @@ Repositorio de tareas semanales de la materia Teoría de Circuitos II - UTN FRBA
 - Enlace a nbviewer: https://nbviewer.org/github/tomasalbanesi/TC2_2023/blob/master/Trabajo_Semanal_1/TS1_Notebook_Albanesi.ipynb?flush_cache=true
 
 ### Tarea semanal #2:
-- Enlace a nbviewer: https://nbviewer.org/github/tomasalbanesi/TC2_2023/blob/master/Trabajo_Semanal_2/TS2_Notebook_Albanesi.ipynb?flush_cache=true
+- Enlace a nbviewer: https://nbviewer.org/github/tomasalbanesi/TC2_2023/blob/master/Trabajos_Semanales/Trabajo_Semanal_2/TS2_Notebook_Albanesi.ipynb?flush_cache=true
 
 ## Autores
 
