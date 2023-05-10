@@ -32,4 +32,4 @@ def div(p1, p2):
     return p1 / p2
 
 # Mostramos el valor que deseemos
-print("Resultado: ", div(Poly1, Poly2))
+print("Resultado: ", mult(Poly1, Poly2))

@@ -15,7 +15,7 @@ from pytc2.sistemas_lineales import analyze_sys
 # Definicion de atenuacion maxima en db
 alfa_max = 1
 
-# Definicion de frecuenca angular de banda de stop
+# Definicion de frecuencia angular de banda de stop
 ws = 2
 
 # cuentas auxiliares
