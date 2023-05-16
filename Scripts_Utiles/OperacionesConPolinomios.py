@@ -7,6 +7,8 @@ This is a temporary script file.
 
 # Importamos Sympy
 import sympy
+import numpy as np
+from IPython.display import display
 
 # Obtenes los dos polinomios introducidos por el usuario
 P1 = input("Primer Polinomio: ")
@@ -33,3 +35,5 @@ def div(p1, p2):
 
 # Mostramos el valor que deseemos
 print("Resultado: ", mult(Poly1, Poly2))
+
+display(sympy.latex(mult(Poly1, Poly2)))

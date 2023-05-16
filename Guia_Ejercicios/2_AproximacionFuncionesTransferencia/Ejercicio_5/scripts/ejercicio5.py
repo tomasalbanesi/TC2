@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  4 11:43:23 2023
+Created on Thu May 11 10:34:55 2023
 
 @author: talbanesi
 """
@@ -41,4 +41,9 @@ for nn in range(2,9):
         
         n_seleccionado = nn
         veces = veces + 1
-
+        
+# Calculo los coeficientes con funciones de alto nivel
+z, p, k = sig.cheb1ap(5, 0.4)
+print("Los ceros son: {z}", z)
+print("Los polos son: {p}", p)
+print("El K es: {k}", k)
