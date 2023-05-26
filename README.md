@@ -18,6 +18,9 @@ Repositorio de tareas semanales, scripts utiles y trabajos varios de la materia 
 ### Tarea semanal #4:
 - Enlace a nbviewer: https://nbviewer.org/github/tomasalbanesi/TC2_2023/blob/master/Trabajos_Semanales/Trabajo_Semanal_4/TS4_Notebook_Albanesi.ipynb?flush_cache=true
 
+### Tarea semanal #4bis:
+- Enlace a nbviewer: https://nbviewer.org/github/tomasalbanesi/TC2_2023/blob/master/Trabajos_Semanales/Trabajo_Semanal_4bis/TS4bis_Notebook_Albanesi.ipynb?flush_cache=true
+
 ## Autores
 
   - **Tomas A. Albanesi**
