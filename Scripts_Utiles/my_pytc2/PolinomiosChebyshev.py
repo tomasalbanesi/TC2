@@ -34,6 +34,6 @@ def polinomiosChebyshev(n):
     # Retorna polinomio simplificado pero separado
     # return(sp.simplify(Cn))
 
-print(polinomiosChebyshev(3))
+print(polinomiosChebyshev(2))
 
-print(tc2general.Chebyshev_polynomials(3))
+print(tc2general.Chebyshev_polynomials(2))

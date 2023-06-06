@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Descripción del trabajo de laboratorio}{3}{}%
+\contentsline {section}{\numberline {2}Desarrollo matemático}{4}{}%
+\contentsline {section}{\numberline {3}Diagrama en bloques del circuito}{5}{}%
+\contentsline {section}{\numberline {4}Diagramas esquemáticos}{6}{}%
+\contentsline {section}{\numberline {5}Diagramas de PCB}{7}{}%
+\contentsline {section}{\numberline {6}Listado de materiales (BOM)}{8}{}%
+\contentsline {section}{\numberline {7}Método de medición}{9}{}%
