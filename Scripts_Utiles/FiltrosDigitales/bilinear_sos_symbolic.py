@@ -9,12 +9,11 @@ Created on Wed Aug 18 17:56:57 2021
 """
 
 import sympy as sp
-from splane import pzmap, bodePlot
 import numpy as np
 import scipy.signal as sig
 import matplotlib.pyplot as plt
 
-from pytc2.sistemas_lineales import group_delay, analyze_sys
+from pytc2.sistemas_lineales import GroupDelay, analyze_sys, pzmap, bodePlot
 
 
 #%% Resolución simbólica
