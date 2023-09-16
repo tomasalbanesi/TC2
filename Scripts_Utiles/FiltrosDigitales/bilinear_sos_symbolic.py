@@ -21,7 +21,9 @@ from pytc2.sistemas_lineales import GroupDelay, analyze_sys, pzmap, bodePlot
 s, z = sp.symbols('s z', complex=True)
 k, fs, Q, Om = sp.symbols('k fs Q Om', real=True, positive=True)
 
-Ts = 1/(s**2+s/Q+1)
+w0 = 2*np.pi*1000
+
+Ts = 5 * w0/(s+w0)
 fz = k * (z-1)/(z+1)
 
 Tz = sp.collect(sp.simplify(sp.expand(Ts.subs(s, fz))), z)
@@ -37,7 +39,7 @@ display(Tz)
 
 fs = 2 # Hz (Normalizamos a fs/2 = f_nyq)
 
-# fpw = w0*np.pi*fs/np.tan(np.pi/2*w0); 
+fpw = w0*np.pi*fs/np.tan(np.pi/2*w0); 
 
 
 # allQ = np.array([0.5, np.sqrt(2)/2, 5])
