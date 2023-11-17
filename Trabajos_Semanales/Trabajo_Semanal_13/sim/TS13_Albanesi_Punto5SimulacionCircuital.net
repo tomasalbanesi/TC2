@@ -1,0 +1,10 @@
+* C:\Users\tomas\OneDrive - UTN.BA\UTN\05 - UTN Electrónica 2023\01 - Teoria de Circuitos II\GitHub\TC2_2023\Trabajos_Semanales\Trabajo_Semanal_13\sim\TS13_Albanesi_Punto5SimulacionCircuital.asc
+Vg N001 0 AC 1 Rser=50
+L1 N002 N001 9.94µ
+L2 N003 N002 1.56µ
+C1 N002 0 1.71n
+RL N003 0 50
+.ac dec 1k 1k 1000Meg
+.net I(RL) Vg
+.backanno
+.end
